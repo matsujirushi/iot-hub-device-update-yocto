@@ -16,4 +16,5 @@ BBLAYERS ?= " \
   ##OEROOT##/../meta-iot-hub-device-update-delta \
   ##OEROOT##/../meta-azure-device-update \
   ##OEROOT##/../meta-raspberrypi-adu \
+  ##OEROOT##/../meta-matsujirushi \
   "

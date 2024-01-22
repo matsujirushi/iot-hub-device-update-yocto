@@ -1,0 +1,28 @@
+[submodule "yocto/poky"]
+	path = yocto/poky
+	url = git://git.yoctoproject.org/poky
+	branch = honister
+[submodule "yocto/meta-swupdate"]
+	path = yocto/meta-swupdate
+	url = https://github.com/sbabic/meta-swupdate
+	branch = honister
+[submodule "yocto/meta-openembedded"]
+	path = yocto/meta-openembedded
+	url = git://git.openembedded.org/meta-openembedded
+	branch = honister
+[submodule "yocto/meta-raspberrypi"]
+	path = yocto/meta-raspberrypi
+	url = git://git.yoctoproject.org/meta-raspberrypi
+	branch = honister
+[submodule "yocto/meta-azure-device-update"]
+	path = yocto/meta-azure-device-update
+	url = http://github.com/azure/meta-azure-device-update
+	branch = honister
+[submodule "yocto/meta-iot-hub-device-update-delta"]
+	path = yocto/meta-iot-hub-device-update-delta
+	url = http://github.com/azure/meta-iot-hub-device-update-delta
+	branch = honister
+[submodule "yocto/meta-raspberrypi-adu"]
+	path = yocto/meta-raspberrypi-adu
+	url = http://github.com/azure/meta-raspberrypi-adu
+	branch = honister

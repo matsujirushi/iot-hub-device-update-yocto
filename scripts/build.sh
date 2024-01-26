@@ -139,7 +139,7 @@ while [[ $1 != "" ]]; do
     shift
 done
 
-export MACHINE=raspberrypi3
+export MACHINE=raspberrypi4-64
 export TEMPLATECONF=$ROOT_DIR/yocto/config-templates/$MACHINE
 
 if [ -n "${ADU_SRC_URI}" ]; then
